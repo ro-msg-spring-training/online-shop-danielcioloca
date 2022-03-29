@@ -1,0 +1,232 @@
+{"properties": [
+  {
+    "name": "app.datasource.maximum-pool-size",
+    "type": "java.lang.String",
+    "description": "A description for 'app.datasource.maximum-pool-size'"
+  },
+  {
+    "name": "flyway",
+    "type": "java.lang.String",
+    "description": "A description for 'flyway'"
+  },
+  {
+    "name": "baseline-on-migrate",
+    "type": "java.lang.String",
+    "description": "A description for 'baseline-on-migrate'"
+  },
+  {
+    "name": "locations",
+    "type": "java.lang.String",
+    "description": "A description for 'locations'"
+  },
+  {
+    "name": "app.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'app.datasource.password'"
+  },
+  {
+    "name": "profiles",
+    "type": "java.lang.String",
+    "description": "A description for 'profiles'"
+  },
+  {
+    "name": "datasource",
+    "type": "java.lang.String",
+    "description": "A description for 'datasource'"
+  },
+  {
+    "name": "platform",
+    "type": "java.lang.String",
+    "description": "A description for 'platform'"
+  },
+  {
+    "name": "type",
+    "type": "java.lang.String",
+    "description": "A description for 'type'"
+  },
+  {
+    "name": "url",
+    "type": "java.lang.String",
+    "description": "A description for 'url'"
+  },
+  {
+    "name": "driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'driver-class-name'"
+  },
+  {
+    "name": "hikari",
+    "type": "java.lang.String",
+    "description": "A description for 'hikari'"
+  },
+  {
+    "name": "maximum-pool-size",
+    "type": "java.lang.String",
+    "description": "A description for 'maximum-pool-size'"
+  },
+  {
+    "name": "jpa",
+    "type": "java.lang.String",
+    "description": "A description for 'jpa'"
+  },
+  {
+    "name": "properties",
+    "type": "java.lang.String",
+    "description": "A description for 'properties'"
+  },
+  {
+    "name": "hibernate",
+    "type": "java.lang.String",
+    "description": "A description for 'hibernate'"
+  },
+  {
+    "name": "dialect",
+    "type": "java.lang.String",
+    "description": "A description for 'dialect'"
+  },
+  {
+    "name": "h2",
+    "type": "java.lang.String",
+    "description": "A description for 'h2'"
+  },
+  {
+    "name": "console",
+    "type": "java.lang.String",
+    "description": "A description for 'console'"
+  },
+  {
+    "name": "enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'enabled'"
+  },
+  {
+    "name": "path",
+    "type": "java.lang.String",
+    "description": "A description for 'path'"
+  },
+  {
+    "name": "spring.datasource.jdbc-url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.jdbc-url'"
+  },
+  {
+    "name": "spring.datasource.initialize",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.initialize'"
+  },
+  {
+    "name": "<datasources>",
+    "type": "java.lang.String",
+    "description": "A description for '<datasources>'"
+  },
+  {
+    "name": "<connection-url>jdbc",
+    "type": "java.lang.String",
+    "description": "A description for '<connection-url>jdbc'"
+  },
+  {
+    "name": "<driver>h2<\/driver>",
+    "type": "java.lang.String",
+    "description": "A description for '<driver>h2<\/driver>'"
+  },
+  {
+    "name": "<user-name>sa<\/user-name>",
+    "type": "java.lang.String",
+    "description": "A description for '<user-name>sa<\/user-name>'"
+  },
+  {
+    "name": "<\/security>",
+    "type": "java.lang.String",
+    "description": "A description for '<\/security>'"
+  },
+  {
+    "name": "<xa-datasource-class>org.h2.jdbcx.JdbcDataSource<\/xa-datasource-class>",
+    "type": "java.lang.String",
+    "description": "A description for '<xa-datasource-class>org.h2.jdbcx.JdbcDataSource<\/xa-datasource-class>'"
+  },
+  {
+    "name": "<\/drivers>",
+    "type": "java.lang.String",
+    "description": "A description for '<\/drivers>'"
+  },
+  {
+    "name": "<drivers>",
+    "type": "java.lang.String",
+    "description": "A description for '<drivers>'"
+  },
+  {
+    "name": "@PreAuthorise(\"hasRole('ROLE_admin')\")",
+    "type": "java.lang.String",
+    "description": "A description for '@PreAuthorise(\"hasRole('ROLE_admin')\")'"
+  },
+  {
+    "name": "@PreAuthorise(\"hasRole('ROLE_admin')\")",
+    "type": "java.lang.String",
+    "description": "A description for '@PreAuthorise(\"hasRole('ROLE_admin')\")'"
+  },
+  {
+    "name": "@PreAuthorise(\"hasRole('ROLE_admin')\")",
+    "type": "java.lang.String",
+    "description": "A description for '@PreAuthorise(\"hasRole('ROLE_admin')\")'"
+  },
+  {
+    "name": "spring.datasource.testWhileIdle",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.testWhileIdle'"
+  },
+  {
+    "name": "spring.datasource.validationQuery",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.validationQuery'"
+  },
+  {
+    "name": "spring.jpa.hibernate.naming-",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.hibernate.naming-'"
+  },
+  {
+    "name": "spring.datasource.validationQuery",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.validationQuery'"
+  },
+  {
+    "name": "spring.datasource.validationQuery",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.validationQuery'"
+  },
+  {
+    "name": "spring.datasource.validationQuery",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.validationQuery'"
+  },
+  {
+    "name": "spring.datasource.validationQuery",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.validationQuery'"
+  },
+  {
+    "name": "spring.datasource.validationQuery",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.validationQuery'"
+  },
+  {
+    "name": "security.ignored",
+    "type": "java.lang.String",
+    "description": "A description for 'security.ignored'"
+  },
+  {
+    "name": "security.basic.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'security.basic.enable'"
+  },
+  {
+    "name": "management.security.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'management.security.enabled'"
+  },
+  {
+    "name": "strategy",
+    "type": "java.lang.String",
+    "description": "A description for 'strategy'"
+  }
+]}
