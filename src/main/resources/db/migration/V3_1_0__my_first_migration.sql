@@ -1,4 +1,4 @@
-CREATE TABLE employee (
+CREATE TABLE Employee (
 
     id int NOT NULL AUTO_INCREMENT PRIMARY KEY,
     name varchar(20),
